@@ -22,6 +22,6 @@ A simple Python project that analyzes authentication logs.
 ## Run
 
 ```bash
-python3 main.py
+python3 auth_log_analyzer.py
 ```
 
